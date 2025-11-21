@@ -25,7 +25,4 @@ The agent improves entirely through experience, learning to maximize long-term r
 
 This is one of the most visually impressive ML projects — perfect for demonstrating RL skills to recruiters.
 
----
-
-## 📂 Repository Structure
 
